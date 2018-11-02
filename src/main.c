@@ -13,7 +13,7 @@ unsigned char movComputadora=0; //variable binaria indica cuando la computadora 
 unsigned char seguro=0; //variable binaria indica lo de su nombre
 unsigned char blutu=0;
 unsigned int i;
-
+//hola
 void clock_can (void)
 {
 	//CLOCK CONFIG
